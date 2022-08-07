@@ -14,7 +14,7 @@ const Footer = () => {
         <AppBar  style={{bottom:0,top:"auto"}}>
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
-                    @copyright to Cognizant
+                    @copyright to Sonali 
       </Typography>
             </Toolbar>
         </AppBar>

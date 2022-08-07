@@ -35,7 +35,7 @@ it('h6 should have text CopyRight',() => {
     act(() => {
         render(<Footer />, container);
         const h6 =  container.querySelector('h6');
-        expect(h6.textContent).toBe('@copyright to Cognizant')
+        expect(h6.textContent).toBe('@copyright to Sonali')
     })
 })
 
